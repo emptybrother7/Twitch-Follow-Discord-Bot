@@ -22,7 +22,7 @@ https://github.com/emptybrother7/Twitch-Follow-Discord-Bot.git
 pip install discord.py
 ```  
 
-3. Replace the following placeholders in the script with your own values:
+3. Replace the following placeholders in the .env file with your own values:
 
 - `<Client ID>`: Your Twitch Developer Application Client ID
 - `<Client Secret ID>`: Your Twitch Developer Application Client Secret
