@@ -18,10 +18,13 @@ This repository contains a simple Python script that creates a Discord bot to di
 1. Clone this repository:  
 
 ```
-
+https://github.com/emptybrother7/Twitch-Follow-Discord-Bot.git
 ```  
 
+2. Install `discord.py` library:  
 
-2. Install `discord.py` library:
+```
+pip install discord.py
+```
 
 
