@@ -13,7 +13,7 @@ This repository contains a simple Python script that creates a Discord bot to di
 1. Clone this repository:  
 
 ```
-git clone https://github.com/emptybrother7/Twitch-Follow-Discord-Bot.git
+https://github.com/emptybrother7/Twitch-Follow-Discord-Bot.git
 ```  
 
 2. Replace the following placeholders in the .env file with your own values:
