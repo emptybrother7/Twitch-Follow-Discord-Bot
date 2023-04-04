@@ -38,6 +38,18 @@ pip install discord.py
 
 ```
 python TFDB.py
-```
+```  
+
+## Usage
+
+Once the bot is running, it will automatically update its status with the current number of Twitch followers of the specified user. The status will be updated every 20 minutes.
+
+## Contributing
+
+If you'd like to contribute to this project, please feel free to create a pull request with your changes or open an issue to discuss your ideas.
+
+## License
+
+This project is licensed under the MIT License.
 
 
