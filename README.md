@@ -1,4 +1,4 @@
-# Twitch Follower Counter for Discord Bot 🪂
+# Twitch Follow Counter Discord Bot 🪂
 This is a simple Discord bot that updates its status with the number of Twitch followers of a specified user every 20 minutes. The bot uses the Twitch API and Discord API to fetch the follower count and update the status.
 
 ## Prerequisites 🔬
