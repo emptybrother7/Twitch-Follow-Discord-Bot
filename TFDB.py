@@ -48,7 +48,7 @@ def get_follower_count():
     data = json.loads(response.text)
     return data["total"]
 
-@tasks.loop(minutes=360)
+@tasks.loop(minutes=60)
 async def update_status():
     followers = get_follower_count()
     await client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=f"{followers} followers"))
