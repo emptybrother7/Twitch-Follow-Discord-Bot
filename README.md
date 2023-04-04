@@ -25,6 +25,19 @@ https://github.com/emptybrother7/Twitch-Follow-Discord-Bot.git
 
 ```
 pip install discord.py
+```  
+
+3. Replace the following placeholders in the script with your own values:
+
+- `<Client ID>`: Your Twitch Developer Application Client ID
+- `<Client Secret ID>`: Your Twitch Developer Application Client Secret
+- `<Twitch User ID>`: The Twitch user ID of the account you want to track followers for
+- `<Discord Bot Token>`: Your Discord bot token
+
+4. Run the script:  
+
+```
+python TFDB.py
 ```
 
 
